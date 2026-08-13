@@ -2,7 +2,9 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Ana Carolina Berger, tenho 22 anos e sou natural de Curitiba. Concluí o ensino médio na IFSC. Atualmente, estou cursando Gestão da Técnologia da Informação na Anhanguera.  
+Meu nome é Ana Carolina Berger, tenho 22 anos e sou natural de Curitiba, Paraná. Concluí o Ensino Médio no Instituto Federal de Santa Catarina (IFSC) e, atualmente, curso Gestão da Tecnologia da Informação na Anhanguera.
+
+Tenho interesse em tecnologia e em desenvolver meus conhecimentos na área de TI, buscando constantemente novas oportunidades de aprendizado e crescimento profissional. Minha formação tem me permitido ampliar minha visão sobre tecnologia, gestão e suas aplicações no ambiente profissional.  
 
 
 
